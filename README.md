@@ -38,7 +38,7 @@
 | **Graph-RAG** | [**融合知识图谱的航运信息问答系统**](https://github.com/w13579xw/shipping-info-system)（校优毕设 · 软著） | `Recall@K > 92%`，图检索 `< 100ms`，幻觉率降低 **90%+**（`Django` `Neo4j/Cypher` `BiLSTM-CRF` `ESIM` `BERT+TextCNN`） |
 | **Vision Research** | 医疗输液管缺陷智能筛查系统（YOLOv10-TPH） | 真实集准确率 **98.83%**、缺陷召回率 **99.32%**，论文在投 *Measurement*（`PyTorch` `YOLOv10n` `TPH` `CutPaste` `Grad-CAM`） |
 | **Quant & Infra** | 上海弈倍私募 · 量化脚本向量化 & 核心 MySQL 调优 | Python 耗时 **-80%**，核心 SQL 查询 **-70%**（`Python` `NumPy` `Pandas` `MySQL Indexing` `Linux`） |
-| **Agent Skills** | [**software-copyright-skill**](https://github.com/w13579xw/software-copyright-skill) / [**academic-research-skills**](https://github.com/w13579xw/academic-research-skills) / [**course-chapter-authoring**](https://github.com/w13579xw/course-chapter-authoring) / [**research-paper-skill**](https://github.com/w13579xw/research-paper-skill) | 面向软著材料、科研全流程与高校课程教材/PPT 的可复用 Agent Skill 工程体系（`Agent Skill` `Python` `DOCX/PPTX`） |
+| **Agent Skills** | 1. [**research-paper-skill**](https://github.com/w13579xw/research-paper-skill)（科研主 Skill）<br>&nbsp;&nbsp;&nbsp;↳ 协作子 Skill：[software-copyright-skill](https://github.com/w13579xw/software-copyright-skill) / [academic-research-skills](https://github.com/w13579xw/academic-research-skills) / [GordenSuperPPTSkills](https://github.com/w13579xw/GordenSuperPPTSkills)<br>2. [**course-chapter-authoring**](https://github.com/w13579xw/course-chapter-authoring)（课程开发 Skill） | 覆盖科研论文全流程、软著材料、科研汇报 PPT 与高校教材/课件协同编排的可复用 Agent Skill 体系（`Agent Skill` `Python` `DOCX/PPTX` `LaTeX`） |
 | **Academic Tools** | [**paper-templates**](https://github.com/w13579xw/paper-templates) · 主流学术期刊 LaTeX 模板合集 | 一站式整理 IEEE、Elsevier、Springer Nature、MDPI、FCS 8 套官方模板（`LaTeX` `TeX Live` `Overleaf`） |
 
 ---
