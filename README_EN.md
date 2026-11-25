@@ -38,6 +38,8 @@
 | **Graph-RAG** | [**Maritime Knowledge-Graph Q&A System**](https://github.com/w13579xw/shipping-info-system) (Outstanding Thesis) | `Recall@K > 92%`, graph query `< 100ms`, hallucination `-90%+` (`Django` `Neo4j/Cypher` `BiLSTM-CRF` `ESIM` `BERT+TextCNN`) |
 | **Vision Research** | Medical Infusion Tube Defect Screening (YOLOv10-TPH) | **98.83%** real accuracy, **99.32%** defect recall; under review at *Measurement* (`PyTorch` `YOLOv10n` `TPH` `CutPaste` `Grad-CAM`) |
 | **Quant & Infra** | Shanghai Yibei Private Fund · Quant IT Intern | Vectorized Python scripts **-80%** latency, MySQL core SQL **-70%** (`Python` `NumPy` `Pandas` `MySQL Indexing` `Linux`) |
+| **Agent Skills** | [**software-copyright-skill**](https://github.com/w13579xw/software-copyright-skill) / [**academic-research-skills**](https://github.com/w13579xw/academic-research-skills) / [**course-chapter-authoring**](https://github.com/w13579xw/course-chapter-authoring) | Reusable Agent Skill suites for software copyright packages, end-to-end academic research, and CS course authoring (`Agent Skill` `Python` `DOCX/PPTX`) |
+| **Academic Tools** | [**paper-templates**](https://github.com/w13579xw/paper-templates) · Official LaTeX Manuscript Templates | Curated 8 official templates for IEEE, Elsevier, Springer Nature, MDPI, and FCS (`LaTeX` `TeX Live` `Overleaf`) |
 
 ---
 
